@@ -5,7 +5,7 @@ Universidade Federal do Rio de Janeiro.
 Assignment concerning "Graph Theory" subject in Computer and Information Engineering undergraduation.
 Rio de Janeiro Federal University.
 
-Importe glib.h para usar! // Import glib.h to use!
+Inclua glib.h para usar! // Include glib.h to use!
 
 ALGraph -> Adjecency List without Weights (third column)
 
