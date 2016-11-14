@@ -7,7 +7,7 @@ Rio de Janeiro Federal University.
 
 EM DESENVOLVIMENTO // IN DEVELOPMENT
 
-Import glib.h to use!
+Importe glib.h para usar! // Import glib.h to use!
 
 ALGraph -> Adjecency List without Weights
 
