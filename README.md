@@ -5,6 +5,10 @@ Universidade Federal do Rio de Janeiro.
 Assignment concerning "Graph Theory" subject in Computer and Information Engineering undergraduation.
 Rio de Janeiro Federal University.
 
-"dblp" graph could not be commited to this repository due to file size constraints.
-
 EM DESENVOLVIMENTO // IN DEVELOPMENT
+
+Import glib.h to use!
+ALGraph -> Adjecency List without Weights
+AMGraph -> Adjecency Matrix without Weights
+ALWGraph -> Adjecency List with Weights
+AMWGraph -> Adjecency Matrix with Weights
