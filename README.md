@@ -8,7 +8,11 @@ Rio de Janeiro Federal University.
 EM DESENVOLVIMENTO // IN DEVELOPMENT
 
 Import glib.h to use!
+
 ALGraph -> Adjecency List without Weights
+
 AMGraph -> Adjecency Matrix without Weights
+
 ALWGraph -> Adjecency List with Weights
+
 AMWGraph -> Adjecency Matrix with Weights
