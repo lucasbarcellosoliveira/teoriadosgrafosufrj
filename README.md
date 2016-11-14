@@ -9,10 +9,10 @@ EM DESENVOLVIMENTO // IN DEVELOPMENT
 
 Importe glib.h para usar! // Import glib.h to use!
 
-ALGraph -> Adjecency List without Weights
+ALGraph -> Adjecency List without Weights (third column)
 
-AMGraph -> Adjecency Matrix without Weights
+AMGraph -> Adjecency Matrix without Weights (third column)
 
-ALWGraph -> Adjecency List with Weights
+ALWGraph -> Adjecency List with Weights (third column)
 
-AMWGraph -> Adjecency Matrix with Weights
+AMWGraph -> Adjecency Matrix with Weights (third column)
