@@ -93,13 +93,13 @@ public:
             if (u == finish) {
                 ofstream output(pathout);
                 output << "Distance = " << dist[u - 1] << endl << endl;
-                output << start << endl;
+                output << finish << endl;
                 int temp = parent[u - 1];
                 while (temp != start) {
                     output << temp << endl;
                     temp = parent[temp - 1];
                 }
-                output << finish << endl;
+                output << start << endl;
                 output.close();
                 float ret = dist[u - 1];
                 delete dist;
